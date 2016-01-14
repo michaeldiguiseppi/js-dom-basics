@@ -1,1 +1,1 @@
-console.log("Linked!");
+console.log("Sanity check!");
